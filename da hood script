@@ -1,0 +1,15 @@
+--[[
+  ██████  ███▄ ▄███▓ ▒█████   ██ ▄█▀▓█████ 
+▒██    ▒ ▓██▒▀█▀ ██▒▒██▒  ██▒ ██▄█▒ ▓█   ▀ 
+░ ▓██▄   ▓██    ▓██░▒██░  ██▒▓███▄░ ▒███   
+  ▒   ██▒▒██    ▒██ ▒██   ██░▓██ █▄ ▒▓█  ▄ 
+▒██████▒▒▒██▒   ░██▒░ ████▓▒░▒██▒ █▄░▒████▒
+▒ ▒▓▒ ▒ ░░ ▒░   ░  ░░ ▒░▒░▒░ ▒ ▒▒ ▓▒░░ ▒░ ░
+░ ░▒  ░ ░░  ░      ░  ░ ▒ ▒░ ░ ░▒ ▒░ ░ ░  ░
+░  ░  ░  ░      ░   ░ ░ ░ ▒  ░ ░░ ░    ░   
+      ░         ░       ░ ░  ░  ░      ░  ░
+$moke script by NotLaggingg#0710 and Bitey#0001
+BUY PREMIUM https://pastebin.com/raw/hQbSjgsZ
+discord.gg/E6HVDpqm9t                                         
+]]
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Biteyz/Smoke/main/source')))()
